@@ -2,7 +2,7 @@
 
 ## Breve informe de naturaleza exploratoria sobre los datos
 
-En resumidas cuentas, en esta parte del informe se han de encarar las preguntas siguientes tanto desde el punto de vista specíficamente de análisis de datos, como desde el punto de vista biológico:
+En resumidas cuentas, en esta parte del informe se encaran las siguientes preguntas tanto desde el punto de vista específicamente de análisis de datos, como desde el punto de vista biológico:
 
 - ¿Nos enfrentamos a un problema balanceado o no balanceado? ¿Qué implicaciones tiene esto en la resolución de la práctica?
 
